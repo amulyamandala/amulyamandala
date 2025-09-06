@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm sri amulya mandala</h1>
 <h3 align="center">CS student exploring DSA, Competitive Programming, and Web Development.</h3>
 
-- 🔭 I’m currently working on **portfolio website**
+- 🔭 I’m currently working on my **portfolio website**
 
 - 🌱 I’m currently learning **C++, Data Structures & Algorithms, Competitive Programming (Codeforces, LeetCode), Git & GitHub**
 
-- 🔭 I’m currently working on [Weather App (HTML, CSS, JS)](https://github.com/amulyamandala/weather-app)
+- 🔭 I’m worked on my own [Weather App (HTML, CSS, JS)](https://amulyamandala.github.io/weather-app/)
 
 - 👨‍💻 All of my projects are available at [https://github.com/amulyamandala](https://github.com/amulyamandala)
 
