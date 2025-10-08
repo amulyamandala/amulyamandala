@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **C++, Data Structures & Algorithms, Competitive Programming (Codeforces, LeetCode), Git & GitHub**
 
-- 🔭 I’m worked on my own [Weather App (HTML, CSS, JS)](https://amulyamandala.github.io/weather-app/)
+- 🔭 I’m worked on my own [VidhyaAI - AI Teaching Assistant ](https://vidhya-ai-2vej.vercel.app/)
 
 - 👨‍💻 All of my projects are available at [https://github.com/amulyamandala](https://github.com/amulyamandala)
 
